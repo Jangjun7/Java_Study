@@ -1,5 +1,5 @@
 # Java_Study
-
+# 생활 코딩 : https://opentutorials.org/course/1
 ### Day01
 - HelloWorld 출력
 - 데이터타입 이해
